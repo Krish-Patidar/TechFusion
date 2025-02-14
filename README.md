@@ -4,7 +4,7 @@
 TechFusion is a fully functional IT company website developed as my second solo project at the end of my first year. It includes all essential pages and features an advanced **Smart Employee Management System (SEMS)** integrated with **TF AI**, an AI-powered attrition prediction system.
 
 ## 🔥 Key Features
-### 🌟 Employee Management System (EMS)
+### 🌟 Smart Employee Management System (SEMS)
 - **Add Employee**: Managers can register new employees with relevant details.
 - **Delete Employee**: Remove employee records when they leave the company.
 - **Update Employee**: Modify existing employee details efficiently.
