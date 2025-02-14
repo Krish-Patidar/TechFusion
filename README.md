@@ -1,7 +1,7 @@
 # TechFusion: Where AI Meets Full-Stack Development!
 
 ## 🚀 Project Overview
-TechFusion is a fully functional IT company website developed as my second solo project at the end of my first year. It includes all essential pages and features an advanced **Employee Management System (EMS)** integrated with **TF AI**, an AI-powered attrition prediction system.
+TechFusion is a fully functional IT company website developed as my second solo project at the end of my first year. It includes all essential pages and features an advanced **Smart Employee Management System (SEMS)** integrated with **TF AI**, an AI-powered attrition prediction system.
 
 ## 🔥 Key Features
 ### 🌟 Employee Management System (EMS)
