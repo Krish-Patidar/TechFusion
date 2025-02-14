@@ -1,0 +1,11 @@
+Age,CTC,DOJ,Experience,JobSatisfaction,YearsAtCompany,MaritalStatus,Attrition
+30,600000,2020-01-15,5,4,4,Married,No
+45,800000,2015-07-25,15,3,9,Single,Yes
+34,700000,2018-05-10,7,5,6,Divorced,No
+29,650000,2021-03-20,3,4,2,Married,No
+50,1200000,2010-11-01,20,2,15,Single,Yes
+39,900000,2016-09-12,10,3,7,Divorced,No
+28,550000,2022-07-01,2,4,1,Married,No
+55,1100000,2005-04-25,30,1,20,Married,Yes
+40,750000,2014-02-14,12,3,8,Single,No
+33,680000,2019-10-13,6,5,5,Divorced,No
